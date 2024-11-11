@@ -1,3 +1,18 @@
+![image](https://github.com/user-attachments/assets/bb222e97-0e93-4893-83e5-9cd793c500c6)
+
+![image](https://github.com/user-attachments/assets/dad86ad8-4d75-408f-9a38-7f3be26d3078)
+
+![image](https://github.com/user-attachments/assets/bd383aff-0578-4da1-ae7e-253a6fc70131)
+
+
+
+
+
+
+
+
+
+
 # Heart Disease Prediction and Notification System
 
 ## Project Overview
